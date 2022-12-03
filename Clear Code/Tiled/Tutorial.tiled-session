@@ -1,0 +1,36 @@
+{
+    "activeFile": "data/tmx/Basic.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "data/tmx/Basic.tmx": {
+            "scale": 0.20966796875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2244.0242198416395,
+                "y": 2050.8616674429436
+            }
+        },
+        "data/tsx/Objects.tsx": {
+            "scaleInDock": 1
+        },
+        "data/tsx/terrain_corner.tsx": {
+            "scaleInDock": 1
+        },
+        "data/tsx/terrain_edges.tsx": {
+            "scaleInDock": 1
+        },
+        "data/tsx/tiles.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        }
+    },
+    "openFiles": [
+        "data/tmx/Basic.tmx"
+    ],
+    "project": "Tutorial.tiled-project",
+    "recentFiles": [
+        "data/tmx/Basic.tmx"
+    ]
+}
